@@ -1,0 +1,6 @@
+#!/bin/rc
+
+m=/mail/fs
+window 0,404,182,736 faces -c -m $m/Inbox -m $m/9 \
+	-m $m/OpenBSD -m $m/Miscs-Lists -m $m/sr.ht-discuss \
+	-m $m/Feed -m $m/Lobsters

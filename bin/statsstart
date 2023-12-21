@@ -1,0 +1,5 @@
+#!/bin/rc
+font=$monospace
+opts=-l8zmfe
+window 0,0,182,204 stats $opts $sysname 
+window 0,200,182,408 stats $opts beep.$domain
